@@ -1,3 +1,3 @@
 #kakao-clonecoding
 
-CSS got so much better!
+HTML & CSS are so mucg fun!
